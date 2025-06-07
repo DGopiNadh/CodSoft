@@ -11,7 +11,7 @@ Tasks
 
 Setup
 
-•	Python 3.8+
-•	Install dependencies: requirements.txt (Chatbot, TicTacToe, Face Recognition), requirements1.txt (Image Captioning).
-•	See task-specific README.md in each folder.
+1	Python 3.8+
+2	Install dependencies: requirements.txt (Chatbot, TicTacToe, Face Recognition), requirements1.txt (Image Captioning).
+3	See task-specific README.md in each folder.
 
