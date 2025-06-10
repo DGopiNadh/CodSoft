@@ -24,9 +24,15 @@ FaceRecognition/
 ├── README.md
 
 └── faces/
+   
     ├── person1/
+    
     │   ├── image1.jpg
+    
     │   ├── image2.jpg
+    
     ├── person2/
+    
     │   ├── image3.jpg
+    
     └── test.jpg
