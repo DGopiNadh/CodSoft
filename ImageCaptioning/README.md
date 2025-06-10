@@ -12,3 +12,4 @@ Setup
 Install dependencies:
 pip install -r requirements1.txt
 
+"Ensure that all files are stored within a single folder only."
