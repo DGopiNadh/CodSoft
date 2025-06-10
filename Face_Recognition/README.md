@@ -15,24 +15,24 @@ pip install -r requirements.txt
 
 Files Organization
 
-FaceRecognition/
+   FaceRecognition/
 
-├── main.py
-
-├── requirements.txt
-
-├── README.md
-
-└── faces/
-   
-    ├── person1/
-    
-    │   ├── image1.jpg
-    
-    │   ├── image2.jpg
-    
-    ├── person2/
-    
-    │   ├── image3.jpg
-    
-    └── test.jpg
+      ├── main.py
+      
+      ├── requirements.txt
+      
+      ├── README.md
+      
+      └── faces/
+         
+          ├── person1/
+          
+          │   ├── image1.jpg
+          
+          │   ├── image2.jpg
+          
+          ├── person2/
+          
+          │   ├── image3.jpg
+          
+          └── test.jpg
