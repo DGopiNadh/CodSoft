@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 Files Organization
 
-   FaceRecognition/
+      FaceRecognition/
 
       ├── main.py
       
