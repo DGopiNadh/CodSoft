@@ -34,3 +34,5 @@ Files Organization
           │   ├── image3.jpg
           
           └── test.jpg
+
+"Ensure that all files are stored within a single folder only."
