@@ -21,8 +21,6 @@ Files Organization
       
       ├── requirements.txt
       
-      ├── README.md
-      
       └── faces/
          
           ├── person1/
